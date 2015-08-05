@@ -12,6 +12,13 @@ sectionA = {
 	b'2 r8 e''8| %what to do with the e at the beginning of the next phrase? Refactor it away from the sectionA?
 }
 
+sectionB  = {
+	a'4 e''8 e''8 e''8 a'16 a'16 |
+	a'4 e''8 e''8 e''8 b'16 b'16 |
+	a'4 e''8 e''8 e''8 b'8 |
+	c'2 r4 |
+}
+
 end = {
 	% total work in progress
 	e''8( a''4 b''8 c'''8 b''8 |
@@ -28,6 +35,7 @@ end = {
 	\sectionA
 	\sectionA
 	\sectionA
+	\sectionB
 
 	\end
 
