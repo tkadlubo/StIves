@@ -9,7 +9,7 @@ sectionA = {
 	b'4 e''8 e''8 e''8 b'16 b'16 | % 00:05 mark at the second e
 	a'4 e''8 e''8 e''8 a'16 a'16 |
 	%FIXME: add a slur to the following b?
-	b'2 r8 e''8| %what to do with the e at the beginning of the next phrase? Refactor it away from the sectionA?
+	b'2 r8 e''8 | %what to do with the e at the beginning of the next phrase? Refactor it away from the sectionA?
 }
 
 sectionB  = {
@@ -38,5 +38,4 @@ end = {
 	\sectionB
 
 	\end
-
 }
