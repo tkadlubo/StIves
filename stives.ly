@@ -21,7 +21,7 @@ sectionB  = {
 
 end = {
 	% total work in progress
-	e''8( a''4 b''8 c'''8 b''8 |
+	e''8( a''4 b''8 c'''8 b''8 | %works better when played on the 2nd string, FIXME: add markers for that
 
 	e'''8) e'''4( e'''4. | % 09:00 mark
 	e'''2.) | %FIXME: measure the duration of this e group.
