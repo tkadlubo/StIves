@@ -4,19 +4,7 @@
 	copyright = "Creative Commons by-nc-sa v4.0"
 }
 
-sectionA = {
-	a'4 e''8 e''8 e''8 a'16 a'16 |
-	b'4 e''8 e''8 e''8 b'16 b'16 | % 00:05 mark at the second e
-	a'4 e''8 e''8 e''8 a'16 a'16 |
-	%FIXME: add a slur to the following b?
-	b'2 r8 e''8 | %what to do with the e at the beginning of the next phrase? Refactor it away from the sectionA?
-}
-
 sectionB  = {
-	a'4 e''8 e''8 e''8 a'16 a'16 |
-	a'4 e''8 e''8 e''8 b'16 b'16 |
-	a'4 e''8 e''8 e''8 b'8 |
-	c'2 r4 |
 }
 
 end = {
@@ -31,11 +19,26 @@ end = {
 {
 	\time 3/4 
 	\tempo 4=75
+	s2 s8 a'8~ |
+	a'8 e''8 e''8 e''8 a'8 a'8 |
+	b'8 e''8 e''8 e''8 b'8 b'8 | % 00:05 mark at the second e
+	a'8 e''8 e''8 e''8 a'8 a'8 |
+	b'2 r8 b'8 |
 
-	\sectionA
-	\sectionA
-	\sectionA
-	\sectionB
+	a'8 e''8 e''8 e''8 a'8 a'8 | % 00:10 mark at the end
+	b'8 e''8 e''8 e''8 b'8 b'8 |
+	a'8 e''8 e''8 e''8 a'8 a'8 |
+	b'2 r8 b'8 |
+
+	a'8 e''8 e''8 e''8 a'8 a'8 | % 00:15 mark at the opening a
+	b'8 e''8 e''8 e''8 b'8 b'8 |
+	a'8 e''8 e''8 e''8 a'8 a'8 |
+	b'2 c''8\p r8 |
+
+	a'8 e''8 e''8 e''8 a'8 a'8 |
+	a'8 e''8 e''8 e''8 b'8 b'8 |
+	a'8 e''8 e''8 e''8 b'8 c''8 |
+	a'2 r4 |
 
 	\end
 }
