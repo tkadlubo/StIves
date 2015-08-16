@@ -4,9 +4,6 @@
 	copyright = "Creative Commons by-nc-sa v4.0"
 }
 
-sectionB  = {
-}
-
 end = {
 	% total work in progress
 	e''8( a''4 b''8 c'''8 b''8 | %works better when played on the 2nd string, FIXME: add markers for that
@@ -38,7 +35,11 @@ end = {
 	a'8 e''8 e''8 e''8 a'8 a'8 |
 	a'8 e''8 e''8 e''8 b'8 b'8 |
 	a'8 e''8 e''8 e''8 b'8 c''8 |
-	a'2 r4 |
+	a'2 r8 a'8~ |
 
+	a'8\< e''8 g''8\> e''8 c''8  b'8\!( |
+	b'4)\< g''8\> e''8  b'8 a'8\!( |
+	a'8) e''8 g''8\> e''8 c''8  b'8 |
+	%\p|
 	\end
 }
