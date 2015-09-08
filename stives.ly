@@ -30,16 +30,17 @@ end = {
 	a'8 e''8 e''8 e''8 a'8 a'8 | % 00:15 mark at the opening a
 	b'8 e''8 e''8 e''8 b'8 b'8 |
 	a'8 e''8 e''8 e''8 a'8 a'8 |
-	b'2 c''8\p r8 |
+	b'2 c''8\p r8 | % 00:20 mark at b
 
 	a'8 e''8 e''8 e''8 a'8 a'8 |
 	a'8 e''8 e''8 e''8 b'8 b'8 |
-	a'8 e''8 e''8 e''8 b'8 c''8 |
+	a'8 e''8 e''8 e''8 b'8 c''8 | % 00:25 mark at b
 	a'2 r8 a'8~ |
 
 	a'8 e''8 g''8-- e''8 c''8  b'8 |
-	b'4 g''8-- e''8 b'8 a'8 |
+	b'4 g''8-- e''8 b'8 a'8 | % 00:30 mark at g
 	a'8 e''8 g''8-- e''8 c''8\> b'8 |
 	b'8\p c''8 b'4 a'4\< \!|
+
 	\end
 }
