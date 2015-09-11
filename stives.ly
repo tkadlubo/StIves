@@ -43,8 +43,9 @@ end = {
 	b'8\p c''8 b'4 a'4\< |
 
 	a'8\! e''8 g''8 e''8 c''8 b'8 | % 00:35 mark at c
-	b'8 g''8 e''8 b'8 a'8 b'8 | % TODO: can I move the g''8 one eight note forward to make this thing more regular? Investigate possible layouts.
-	a'8 b'8 g''8 e''8 b'8 a'8 |
+	b'4 g''8 e''8 b'8 a'8 | 
+	a'8 e''8  b'8 a'8 b'4 |
+	e''8 c''8 b'8 a'4 r8 | % 00:40 mark at a
 
 	\end
 }
