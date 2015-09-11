@@ -57,5 +57,9 @@ end = {
 
 	r2 r4 |
 
+	a8 e'8 e'8 e'8 c'8 a8 | % 00:55 mark at c
+	b8 g'8 g'8 g'8 b8 a8 |
+	a8 a8 a8 a8 e'8 b8 |
+
 	\end
 }
