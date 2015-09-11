@@ -14,7 +14,7 @@ end = {
 }
 
 {
-	\time 3/4 
+	\time 3/4
 	\tempo 4=75
 	s2 s8 a'8~ |
 	a'8 e''8 e''8 e''8 a'8 a'8 |
@@ -43,9 +43,19 @@ end = {
 	b'8\p c''8 b'4 a'4\< |
 
 	a'8\! e''8 g''8 e''8 c''8 b'8 | % 00:35 mark at c
-	b'4 g''8 e''8 b'8 a'8 | 
-	a'8 e''8  b'8 a'8 b'4 |
+	b'4 g''8 e''8 b'8 a'8 |
+	a'8 e''8 b'8 a'8 b'4 |
 	e''8 c''8 b'8 a'4 r8 | % 00:40 mark at a
+
+	a'8 a'8 e''8 c''8 a'8 b'8 |
+	b'4 g''8 e''8 b'8 a'8 |
+	a'4 g''8 e''8 c''8 b'8~ | % 00:45 mark at e
+	b'8 b'8 c''8 b'8 c''8 a'8 |
+	a'4 e''8 c''8 b'8 b'8 |
+	b'4 g''8 e''8 b'8 a'8~ | % FIXME: I'm not super-happy about the rhythm of this b quarter note.
+	a'8 a'8 b'8 c''8 a'4 | % 00:50 mark at the beginning of the measure
+
+	r2 r4 |
 
 	\end
 }
