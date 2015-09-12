@@ -10,7 +10,7 @@ end = {
 
 	e'''8) e'''4( e'''4. % 09:00 mark
 	e'''2.) %FIXME: measure the duration of this e group.
-	a'''2\fermata s1
+	a'''2\fermata s4
 }
 
 {
