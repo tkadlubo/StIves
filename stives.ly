@@ -16,7 +16,7 @@ end = {
 {
 	\time 3/4
 	\tempo 4=75
-	s2 s8 a'8~
+
 	a'8 e''8 e''8 e''8 a'8 a'8
 	b'8 e''8 e''8 e''8 b'8 b'8 % 00:05 mark at the second e
 	a'8 e''8 e''8 e''8 a'8 a'8
