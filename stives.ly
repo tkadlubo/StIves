@@ -60,14 +60,22 @@ end = {
 
 	a,8 e' e e c a % 00:55 mark at c
 	b g' g g b, a
-	a a a a e' b
+	a a a e' b a
 	a e' e e c a~ % 01:00 mark at the beginning of the measure
 	a a b e c a
 	a e' e e c b
 	a4 r2 % 01:05 mark at a
 
 	a8 e' e e c a~
-	a a e' c a a
+	a b e c b a
+	a e' e e c a % 01:10 mark at the second e
+	b b e c b a 
+	a e' e e c a
+	b4 c8 e c a % 01:15 mark at a
+	a e' e e c b
+	a4 r2
+
+	a4. e'8 c4 
 
 	}
 
