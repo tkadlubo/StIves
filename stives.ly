@@ -4,19 +4,10 @@
 	copyright = "Creative Commons by-nc-sa v4.0"
 }
 
-end = {
-	% total work in progress. FIXME: port to relative notation.
-	e''8( a''4 b''8 c''' b'' %works better when played on the 2nd string, FIXME: add markers for that
-
-	e'''8) e'''4( e'''4. % 09:00 mark
-	e'''2.) %FIXME: measure the duration of this e group.
-	a'''2\fermata s4
-}
-
-{
+\score {
+	\new Staff <<
 	\time 3/4
 	\tempo 4=68
-
 	\relative {
 	a'8 e' e e a, a
 	b e e e b b % 00:05 mark at the second e
@@ -69,15 +60,26 @@ end = {
 	a8 e' e e c a~
 	a b e c b a
 	a e' e e c a % 01:10 mark at the second e
-	b b e c b a 
+	b b e c b a
 	a e' e e c a
 	b4 c8 e c a % 01:15 mark at a
 	a e' e e c b
 	a4 r2
 
-	a4. e'8 c4 
+	a4. e'8 c4
 
+
+	%END section
+	% total work in progress. FIXME: port to relative notation.
+
+	e'8( a4 b8 c b %works better when played on the 2nd string, FIXME: add markers for that
+
+	e8) e4( e4. % 09:00 mark
+	e2.) %FIXME: measure the duration of this e group.
+	a2\fermata s4
 	}
 
-	\end
+	>>
+	\layout{}
+	\midi{}
 }
