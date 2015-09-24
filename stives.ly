@@ -5,7 +5,7 @@
 }
 
 \score {
-	\new Staff <<
+	\new Staff \with {midiInstrument = #"cello"} <<
 	\time 3/4
 	\tempo 4=68
 	\relative {
@@ -31,8 +31,8 @@
 
 	a e' g e c b
 	b4 g'8 e b a % 00:30 mark at g
-	a e' g e c\> b
-	b\p c b4 a\<
+	a e' g e c b % FIXME crescendo to piano here?
+	b\p c b4 a
 
 	a8\! e' g e c b % 00:35 mark at c
 	b4 g'8 e b a
