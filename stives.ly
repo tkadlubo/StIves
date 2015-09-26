@@ -9,10 +9,10 @@
 	\time 3/4
 	\tempo 4=68
 	\relative {
-	a'8 e' e e a, a
-	b e e e b b % 00:05 mark at the second e
-	a e' e e a, a
-	b2 r8 b
+	a'8( e' e e a, a)
+	b( e e e b b) % 00:05 mark at the second e
+	a( e' e e a, a
+	b2) r8 b
 
 	a e' e e a, a % 00:10 mark at the end
 	b e e e b b
