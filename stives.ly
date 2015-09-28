@@ -66,12 +66,14 @@
 	a e' e e c b
 	a4 r2
 
-	a4. e'8 c4
-
+	a4 e'8 c4 b8 %01:20 mark at b
+	g'8 a b c4 r8
+	e,4 d8 c b a
+	a a b a s4 %???
 
 	%END section
 	% total work in progress. FIXME: port to relative notation.
-
+	s2. %PLACEHOLDER
 	e'8( a4 b8 c b %works better when played on the 2nd string, FIXME: add markers for that
 
 	e8) e4( e4. % 09:00 mark
