@@ -76,7 +76,7 @@
 
 	e8) e4( e4. % 09:00 mark
 	e2.) %FIXME: measure the duration of this e group.
-	a2\fermata s4
+	a2.\fermata
 	}
 
 	>>
