@@ -7,7 +7,7 @@
 \score {
 	\new Staff \with {midiInstrument = #"cello"} <<
 	\time 3/4
-	\tempo 4=68
+	\tempo 4=110
 	\relative {
 	a'8( e' e e a, a)
 	b( e e e b b) % 00:05 mark at the second e
