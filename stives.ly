@@ -9,10 +9,10 @@
 	\time 3/4
 	\tempo 4=110
 	\relative {
-	a'8( e' e e a, a)
-	b( e e e b b) % 00:05 mark at the second e
-	a( e' e e a, a
-	b2) r8 b
+	a'8 e' e e a, a
+	b e e e b b % 00:05 mark at the second e
+	a e' e e a, a
+	b2 r8 b
 
 	a e' e e a, a % 00:10 mark at the end
 	b e e e b b
@@ -74,7 +74,7 @@
 	%END section
 	% total work in progress. FIXME: port to relative notation.
 	s2. %PLACEHOLDER
-	e'8( a4 b8 c b %works better when played on the 2nd string, FIXME: add markers for that
+	e''8( a4 b8 c b %works better when played on the 2nd string, FIXME: add markers for that
 
 	e8) e4( e4. % 09:00 mark
 	e2.) %FIXME: measure the duration of this e group.
