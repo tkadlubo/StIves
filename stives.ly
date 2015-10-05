@@ -72,6 +72,11 @@
 	a b a b g' a % 01:25 mark at first a
 	b c b c a r % FIXME: decrescendo the last a into the rest?
 
+	a a e c a b~ % 01:30 mark at the beginning
+	b b c e c b
+	a s8 s4 %???
+
+
 	%END section
 	% total work in progress. FIXME: port to relative notation.
 	s2. %PLACEHOLDER
