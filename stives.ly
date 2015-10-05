@@ -66,20 +66,22 @@
 	a e' e e c b
 	a4 r2
 
-	a4 e'8 c4 b8 %01:20 mark at b
+	a4 e'8 c4 b8 % 01:20 mark at b
 	g'8 a b c4 r8
 	e,4 d8 c b a
-	a a b a s4 %???
+	a b a b g' a % 01:25 mark at first a
+	b c b c a r % FIXME: decrescendo the last a into the rest?
 
 	%END section
 	% total work in progress. FIXME: port to relative notation.
 	s2. %PLACEHOLDER
-	e''8( a4 b8 c b %works better when played on the 2nd string, FIXME: add markers for that
+	e'8( a4 b8 c b %works better when played on the 2nd string, FIXME: add markers for that
 
 	e8) e4( e4. % 09:00 mark
 	e2.) %FIXME: measure the duration of this e group.
 	a2.\fermata
 	}
+
 
 	>>
 	\layout{}
