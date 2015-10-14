@@ -77,7 +77,8 @@
 	b b c e c b
 	a e' e c a4
 	b'8 c b a a,4 % 01:35 mark at the second b
-	a8 e' b a b 
+	a8 e' b a b g' % FIXME: the rhythm in here is probably broken
+	g e c a4 a8
 
 
 	%END section
