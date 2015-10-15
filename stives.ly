@@ -8,7 +8,7 @@
 	\new Staff \with {midiInstrument = #"cello"} <<
 	\clef bass
 	\time 3/4
-	\tempo 4=112
+	\tempo 4=113
 	\relative {
 	a8 e' e e a, a
 	b e e e b b % 00:05 mark at the second e
@@ -28,12 +28,12 @@
 	a e' e e a, a
 	a e' e e b b
 	a e' e e b c % 00:25 mark at b
-	a2 r8 a~
+	a2 r4
 
-	a e' g e c b
+	a8 e' g e c b
 	b4 g'8 e b a % 00:30 mark at g
-	a e' g e c b % FIXME crescendo to piano here?
-	b\p c b4 a
+	a4 e'8 g e c % FIXME crescendo to piano here?
+	b b\p c b a
 
 	a8\! e' g e c b % 00:35 mark at c
 	b4 g'8 e b a
