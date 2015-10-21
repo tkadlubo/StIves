@@ -81,6 +81,8 @@
 	g e c a4 a8
 	b c a4 r4
 
+	a8 e' e e c a % 01:40 mark at the beggining.
+
 
 
 	%END section
