@@ -43,12 +43,12 @@
 	a a e' c a b
 	b4 g'8 e b a
 	a4 g'8 e c b~ % 00:45 mark at e
-	b b c b c a
+	b b c b c a~
 
 	a4 e'8 c b b
-	b4 g'8 e b a~ % FIXME: I'm not super-happy about the rhythm of this b quarter note.
-	a a b c a4 % 00:50 mark at the beginning of the measure
-	r2 r4
+	b4 g'8 e b a
+	a4 a8 b c a~ % 00:50 mark at the beginning of the measure
+	a4 r2
 
 	a,8 e' e e c a % 00:55 mark at c
 	b g' g g b, a
