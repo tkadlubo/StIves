@@ -21,7 +21,7 @@
 	b2 r8 b
 
 	a8 e' e e a, a % 00:15 mark at the opening a
-	b e e e b b
+	b e e e b b % measure 10
 	a e' e e a, a
 	b2 c8\p r % 00:20 mark at b
 
@@ -33,7 +33,7 @@
 	a8 e' g e c b
 	b4 g'8 e b a % 00:30 mark at g
 	a4 e'8 g e c % FIXME crescendo to piano here?
-	b b\p c b a r8
+	b b\p c b a r8 % measure 20
 
 	a8\! e' g e c b % 00:35 mark at c
 	b4 g'8 e b a
@@ -46,8 +46,8 @@
 	b b c b c a~
 
 	a4 e'8 c b b
-	b4 g'8 e b a
-	a4 a8 b c a~ % 00:50 mark at the beginning of the measure
+	b4 g'8 e b a % measure 30
+	a4 a8 b c a~ % 00:50 mark at the beginning of the measure %FIXME: something better than this long a a4 a8?
 	a4 r2
 
 	a,8 e' e e c a % 00:55 mark at c
@@ -58,7 +58,7 @@
 	a e' e e c b
 	a4 r2 % 01:05 mark at a
 
-	a8 e' e e c a~
+	a8 e' e e c a~ % measure 40
 	a b e c b a
 	a e' e e c a % 01:10 mark at the second e
 	b b e c b a
@@ -69,7 +69,7 @@
 
 	a4 e'8 c4 b8 % 01:20 mark at b
 	g'8 a b c4 r8
-	e,4 d8 c b a
+	e,4 d8 c b a % measure 50
 	a b a b g' a % 01:25 mark at first a
 	b c b c a r % FIXME: decrescendo the last a into the rest?
 
@@ -81,7 +81,7 @@
 	g e c a4 a8
 	b c a4 r4
 
-	a8 e' e e c a % 01:40 mark at the beggining.
+	a8 e' e e c a % 01:40 mark at the beggining. measure 60
 
 
 
