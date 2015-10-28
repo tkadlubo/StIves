@@ -52,13 +52,14 @@
 
 	a,8 e' e e c a % 00:55 mark at c
 	b g' g g b, a
-	a a a e' b a
+	a a a e' b a~
+	a c b a a a %FIXME that is mostly guesswork
 	a e' e e c a~ % 01:00 mark at the beginning of the measure
 	a a b e c a
 	a e' e e c b
-	a4 r2 % 01:05 mark at a
+	a4 r2 % 01:05 mark at a; measure 40
 
-	a8 e' e e c a~ % measure 40
+	a8 e' e e c a~
 	a b e c b a
 	a e' e e c a % 01:10 mark at the second e
 	b b e c b a
@@ -68,8 +69,8 @@
 	a4 r2
 
 	a4 e'8 c4 b8 % 01:20 mark at b
-	g'8 a b c4 r8
-	e,4 d8 c b a % measure 50
+	g'8 a b c4 r8 % measure 50
+	e,4 d8 c b a
 	a b a b g' a % 01:25 mark at first a
 	b c b c a r % FIXME: decrescendo the last a into the rest?
 
@@ -79,9 +80,9 @@
 	b'8 c b a a,4 % 01:35 mark at the second b
 	a8 e' b a b g' % FIXME: the rhythm in here is probably broken
 	g e c a4 a8
-	b c a4 r4
+	b c a4 r4 % measure 60
 
-	a8 e' e e c a % 01:40 mark at the beggining. measure 60
+	a8 e' e e c a % 01:40 mark at the beggining
 
 
 
