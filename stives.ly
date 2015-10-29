@@ -10,28 +10,28 @@
 	\time 3/4
 	\tempo 4=113
 	\relative {
-	a8 e' e e a, a
-	b e e e b b % 00:05 mark at the second e
-	a e' e e a, a
-	b2 r8 b
+	a8( e' e e a, a)
+	b( e e e b b) % 00:05 mark at the second e
+	a( e' e e a, a
+	b2) r8 b(
 
-	a e' e e a, a % 00:10 mark at the end
-	b e e e b b
-	a e' e e a, a
-	b2 r8 b
+	a e' e e a, a) % 00:10 mark at the end
+	b( e e e b b)
+	a( e' e e a, a
+	b2) r8 (b
 
-	a8 e' e e a, a % 00:15 mark at the opening a
-	b e e e b b % measure 10
-	a e' e e a, a
-	b2 c8\p r % 00:20 mark at b
+	a8 e' e e a, a) % 00:15 mark at the opening a
+	b( e e e b b) % measure 10
+	a( e' e e a, a
+	b2 c8\p) r % 00:20 mark at b
 
-	a e' e e a, a
-	a e' e e b b
-	a e' e e b c % 00:25 mark at b
-	a2 r4
+	a( e' e e a, a)
+	a( e' e e b b)
+	a( e' e e b c % 00:25 mark at b
+	a2) r4
 
-	a8 e' g e c b
-	b4 g'8 e b a % 00:30 mark at g
+	a8( e' g e c b)
+	b4( g'8 e b a) % 00:30 mark at g
 	a4 e'8 g e c % FIXME crescendo to piano here?
 	b b\p c b a r8 % measure 20
 
