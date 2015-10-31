@@ -32,8 +32,8 @@
 
 	a8( e' g e c b)
 	b4( g'8 e b a) % 00:30 mark at g
-	a4 e'8 g e c % FIXME crescendo to piano here?
-	b b\p c b a r8 % measure 20
+	a4( e'8 g e c) % FIXME crescendo to piano here?
+	b( b\p c b a) r8 % measure 20
 
 	a8\! e' g e c b % 00:35 mark at c
 	b4 g'8 e b a
