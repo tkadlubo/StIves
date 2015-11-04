@@ -40,15 +40,15 @@
 	a( e' b a b4
 	e8 c b a4) r8 % 00:40 mark at a
 
-	a a e' c a b
-	b4 g'8 e b a
-	a4 g'8 e c b~ % 00:45 mark at e
-	b b c b c a~
+	a( a e' c a b)
+	b4( g'8 e b a)
+	a4( g'8 e c b~ % 00:45 mark at e
+	b b c b c a~)
 
-	a4 e'8 c b b
-	b4 g'8 e b a % measure 30
-	a4 a8 b c a~ % 00:50 mark at the beginning of the measure %FIXME: something better than this long a a4 a8?
-	a4 r2
+	a4( e'8 c b b
+	b4 g'8 e b a) % measure 30
+	a4( a8 b c a~ % 00:50 mark at the beginning of the measure %FIXME: something better than this long a a4 a8?
+	a4) r2
 
 	a,8 e' e e c a % 00:55 mark at c
 	b g' g g b, a
