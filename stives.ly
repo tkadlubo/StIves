@@ -50,14 +50,14 @@
 	a4( a8 b c a~ % 00:50 mark at the beginning of the measure %FIXME: something better than this long a a4 a8?
 	a4) r2
 
-	a,8 e' e e c a % 00:55 mark at c
-	b g' g g b, a
-	a a a e' b a~
-	a c b a a a %FIXME that is mostly guesswork
-	a e' e e c a~ % 01:00 mark at the beginning of the measure
-	a a b e c a
-	a e' e e c b
-	a4 r2 % 01:05 mark at a; measure 40
+	a,8( e' e e c a) % 00:55 mark at c
+	b( g' g g b, a)
+	a( a a e' b a~
+	a c b a a a) %FIXME that is mostly guesswork
+	a( e' e e c a~ % 01:00 mark at the beginning of the measure
+	a a b e c a)
+	a( e' e e c b
+	a4) r2 % 01:05 mark at a; measure 40
 
 	a8 e' e e c a~
 	a b e c b a
