@@ -59,14 +59,14 @@
 	a( e' e e c b
 	a4) r2 % 01:05 mark at a; measure 40
 
-	a8 e' e e c a~
-	a b e c b a
-	a e' e e c a % 01:10 mark at the second e
-	b b e c b a
-	a e' e e c a
-	b4 c8 e c a % 01:15 mark at a
-	a e' e e c b
-	a4 r2
+	a8( e' e e c a~
+	a b e c b a)
+	a( e' e e c a % 01:10 mark at the second e
+	b b e c b a)
+	a( e' e e c a)
+	b4( c8 e c a) % 01:15 mark at a
+	a( e' e e c b
+	a4) r2
 
 	a4 e'8 c4 b8 % 01:20 mark at b
 	g'8 a b c4 r8 % measure 50
