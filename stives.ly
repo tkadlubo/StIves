@@ -68,8 +68,8 @@
 	a( e' e e c b
 	a4) r2
 
-	a4 e'8 c4 b8 % 01:20 mark at b
-	g'8 a b c4 r8 % measure 50
+	a4( e'8 c4 b8) % 01:20 mark at b
+	g'( a b c4 r8) % measure 50
 	e,4 d8 c b a
 	a b a b g' a % 01:25 mark at first a
 	b c b c a r % FIXME: decrescendo the last a into the rest?
