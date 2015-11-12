@@ -74,9 +74,9 @@
 	a( b a b g' a) % 01:25 mark at first a
 	b( c b c a) r % FIXME: decrescendo the last a into the rest?
 
-	a a e c a b~ % 01:30 mark at the beginning
-	b b c e c b
-	a e' e c a4
+	a( a e c a b~ % 01:30 mark at the beginning
+	b b c e c b)
+	a( e' e c a4)
 	b'8 c b a a,4 % 01:35 mark at the second b
 	a8 e' b a b g' % FIXME: the rhythm in here is probably broken
 	g e c a4 a8
